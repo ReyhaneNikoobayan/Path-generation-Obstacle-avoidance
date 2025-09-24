@@ -33,12 +33,12 @@ P, which contains all the intermediate points from X to 𝑓
 
 ## In the final part of this project, I designed a Random Walk Algorithm to solve the local minima problem that occurs when the Potential Field Algorithm (PFA) gets stuck.
 
-**Path generated before implementing Random Walk  
+**Path generated before implementing Random Walk** 
 
 
 <img width="1310" height="978" alt="image" src="https://github.com/user-attachments/assets/82494d37-b69b-425f-836b-d908cace1850" />
 
-**Path generated with implementing Random Walk  
+**Path generated with implementing Random Walk**
 
 
 <img width="1324" height="720" alt="image" src="https://github.com/user-attachments/assets/97608d69-eba0-488c-9c0c-5c678921f25f" />
