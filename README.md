@@ -18,7 +18,3 @@ Using these inputs, the function computes a sequence of via-points (path) that:
 The output is the path 
 
 P, which contains all the intermediate points from X to 𝑓
-
-	​
-
-
